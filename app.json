@@ -1,0 +1,87 @@
+{
+  "id": "3ed6f696-a33f-4fdd-b438-6871066019a6",
+  "name": "E-Invoice Extension",
+  "publisher": "Cocoon It Services",
+  "version": "1.0.0.4",
+  "brief": "",
+  "description": "",
+  "privacyStatement": "",
+  "EULA": "",
+  "help": "",
+  "url": "",
+  "logo": "",
+  "dependencies": [
+    {
+      "id": "a8160c1c-16d2-4191-8362-7f65ca667bcb",
+      "publisher": "CocoonIT Services Pvt Ltd",
+      "name": "Microsoft Nav 2016 Upgrade 3",
+      "version": "1.0.0.0"
+    },
+    {
+      "id": "868f57cc-7dda-4c73-80ca-a6296d483724",
+      "publisher": "CocoonIT Services Pvt Ltd",
+      "name": "Microsoft Nav 2016 Upgrade",
+      "version": "1.0.0.0"
+    },
+    {
+      "id": "f1d9b696-156b-4251-b542-34e549fa80e9",
+      "name": "India Voucher Interface",
+      "publisher": "Microsoft",
+      "version": "20.2.41144.41423"
+      },
+    {
+      "id": "d3c551dd-5903-4194-b153-04ced9d29a2c",
+      "name": "India Tax Base",
+      "publisher": "Microsoft",
+      "version": "20.2.41144.41423"
+      },
+      {
+      "id": "db643212-b7fb-4dd4-b5a8-cb44ac714461",
+      "name": "India GST",
+      "publisher": "Microsoft",
+      "version": "20.2.41144.41423"
+      },
+      {
+        "id": "2dc39818-e0f0-42b6-99eb-ba29dc5f4102",
+        "name": "India Gate Entry",
+        "publisher": "Microsoft",
+        "version": "20.2.41144.41423"
+      },
+      {
+        "id": "c1eafb3f-e397-468e-bdb4-ecc5c317ca00",
+        "name": "Tax Engine",
+        "publisher": "Microsoft",
+        "version": "20.2.41144.41423"
+      },
+      {
+        "id": "7106d701-c601-4a5f-97c2-b8b323ae2c18",
+        "name": "QR Generator",
+        "publisher": "Microsoft",
+        "version": "20.2.41144.41423"
+      },
+      {
+        "id": "050f6146-bffd-40de-942c-d0dd510ec20f",
+        "name": "India Reports",
+        "publisher": "Microsoft",
+        "version": "20.2.41144.41423"
+      }
+
+  ],
+  "screenshots": [],
+  "platform": "1.0.0.0",
+  "application": "24.0.0.0",
+  "idRanges": [
+    {
+      "from": 50100,
+      "to": 50149
+    }
+    ,
+    {
+      "from": 50150,
+      "to": 50500
+    }
+  ],
+  "resourceExposurePolicy": {"allowDebugging": true},
+  "runtime": "11.0",
+  "target": "OnPrem"
+}
